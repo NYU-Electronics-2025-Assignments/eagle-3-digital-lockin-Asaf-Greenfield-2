@@ -2410,6 +2410,9 @@ NS Package M08A</description>
 <wire x1="35.56" y1="13.081" x2="36.5125" y2="12.1285" width="0.127" layer="1"/>
 <wire x1="35.56" y1="13.081" x2="35.56" y2="13.142" width="0.127" layer="1"/>
 </signal>
+<signal name="N$4">
+<via x="14.224" y="80.772" extent="1-16" drill="0.35"/>
+</signal>
 </signals>
 <mfgpreviewcolors>
 <mfgpreviewcolor name="soldermaskcolor" color="0xC8008000"/>
